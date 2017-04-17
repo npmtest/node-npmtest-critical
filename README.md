@@ -1,7 +1,7 @@
 # test coverage for  [critical (v0.8.4)](https://github.com/addyosmani/critical#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-critical.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-critical) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-critical.svg)](https://travis-ci.org/npmtest/node-npmtest-critical)
 #### Extract & Inline Critical-path CSS from HTML
 
-[![NPM](https://nodei.co/npm/critical.png?downloads=true)](https://www.npmjs.com/package/critical)
+[![NPM](https://nodei.co/npm/critical.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/critical)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-critical/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-critical/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-critical/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-critical/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-critical/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-critical/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-critical/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-critical/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-critical/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-critical/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-critical%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-critical/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-critical/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-critical/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-critical/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-critical%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-critical/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-critical/build/test-report.html](https://npmtest.github.io/node-npmtest-critical/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-critical/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-critical/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-critical/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-critical/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-critical/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-critical/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-critical/build/screenCapture.npmPackageListing.svg)
 
@@ -105,22 +111,18 @@
     "license": "Apache-2.0",
     "maintainers": [
         {
-            "name": "addyosmani",
-            "email": "addyosmani@gmail.com"
+            "name": "addyosmani"
         },
         {
-            "name": "sindresorhus",
-            "email": "sindresorhus@gmail.com"
+            "name": "sindresorhus"
         },
         {
-            "name": "bezoerb",
-            "email": "ben@sommerlaune.com"
+            "name": "bezoerb"
         }
     ],
     "name": "critical",
     "optionalDependencies": {},
     "preferGlobal": true,
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/addyosmani/critical.git"
