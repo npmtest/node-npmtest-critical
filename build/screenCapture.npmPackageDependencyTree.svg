@@ -38,7 +38,7 @@
 <tspan x="10" y="570">  │ ├── lodash.reduce@4.6.0 </tspan>
 <tspan x="10" y="586">  │ ├── lodash.reject@4.6.0 </tspan>
 <tspan x="10" y="602">  │ └── lodash.some@4.6.0 </tspan>
-<tspan x="10" y="618">  ├─┬ clean-css@4.0.11 </tspan>
+<tspan x="10" y="618">  ├─┬ clean-css@4.0.12 </tspan>
 <tspan x="10" y="634">  │ └── source-map@0.5.6 </tspan>
 <tspan x="10" y="650">  ├─┬ cli@1.0.1 </tspan>
 <tspan x="10" y="666">  │ ├── exit@0.1.2 </tspan>
@@ -207,7 +207,7 @@
 <tspan x="10" y="3274">  │ │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="3290">  │ ├── map-obj@1.0.1 </tspan>
 <tspan x="10" y="3306">  │ ├─┬ normalize-package-data@2.3.6 </tspan>
-<tspan x="10" y="3322">  │ │ ├── hosted-git-info@2.4.1 </tspan>
+<tspan x="10" y="3322">  │ │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="3338">  │ │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="3354">  │ │ │ └── builtin-modules@1.1.1 </tspan>
 <tspan x="10" y="3370">  │ │ ├── semver@5.3.0 </tspan>
@@ -280,7 +280,7 @@
 <tspan x="10" y="4442">  │   │ └── throttleit@1.0.0 </tspan>
 <tspan x="10" y="4458">  │   └─┬ which@1.2.14 </tspan>
 <tspan x="10" y="4474">  │     └── isexe@2.0.0 </tspan>
-<tspan x="10" y="4490">  ├─┬ postcss@5.2.16 </tspan>
+<tspan x="10" y="4490">  ├─┬ postcss@5.2.17 </tspan>
 <tspan x="10" y="4506">  │ ├── js-base64@2.1.9 </tspan>
 <tspan x="10" y="4522">  │ └─┬ supports-color@3.2.3 </tspan>
 <tspan x="10" y="4538">  │   └── has-flag@1.0.0 </tspan>
@@ -366,7 +366,7 @@
 <tspan x="10" y="5818">  │ │ │ ├── extsprintf@1.0.2 </tspan>
 <tspan x="10" y="5834">  │ │ │ ├── json-schema@0.2.3 </tspan>
 <tspan x="10" y="5850">  │ │ │ └── verror@1.3.6 </tspan>
-<tspan x="10" y="5866">  │ │ └─┬ sshpk@1.11.0 </tspan>
+<tspan x="10" y="5866">  │ │ └─┬ sshpk@1.13.0 </tspan>
 <tspan x="10" y="5882">  │ │   ├── asn1@0.2.3 </tspan>
 <tspan x="10" y="5898">  │ │   ├── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="5914">  │ │   ├── bcrypt-pbkdf@1.0.1 </tspan>
