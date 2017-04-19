@@ -349,7 +349,7 @@
 <tspan x="10" y="5546">  │ ├─┬ form-data@2.1.4 </tspan>
 <tspan x="10" y="5562">  │ │ └── asynckit@0.4.0 </tspan>
 <tspan x="10" y="5578">  │ ├─┬ har-validator@4.2.1 </tspan>
-<tspan x="10" y="5594">  │ │ ├─┬ ajv@4.11.6 </tspan>
+<tspan x="10" y="5594">  │ │ ├─┬ ajv@4.11.7 </tspan>
 <tspan x="10" y="5610">  │ │ │ ├── co@4.6.0 </tspan>
 <tspan x="10" y="5626">  │ │ │ └─┬ json-stable-stringify@1.0.1 </tspan>
 <tspan x="10" y="5642">  │ │ │   └── jsonify@0.0.0 </tspan>
@@ -415,7 +415,7 @@
 <tspan x="10" y="6602">  │ │ └── util-deprecate@1.0.2 </tspan>
 <tspan x="10" y="6618">  │ └── xtend@4.0.1 </tspan>
 <tspan x="10" y="6634">  ├── tmp@0.0.31 </tspan>
-<tspan x="10" y="6650">  └─┬ vinyl@2.0.1 </tspan>
+<tspan x="10" y="6650">  └─┬ vinyl@2.0.2 </tspan>
 <tspan x="10" y="6666">    ├── clone@1.0.2 </tspan>
 <tspan x="10" y="6682">    ├── clone-buffer@1.0.0 </tspan>
 <tspan x="10" y="6698">    ├── clone-stats@1.0.0 </tspan>
