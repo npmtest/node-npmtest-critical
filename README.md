@@ -1,4 +1,7 @@
-# test coverage for  [critical (v0.8.4)](https://github.com/addyosmani/critical#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-critical.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-critical) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-critical.svg)](https://travis-ci.org/npmtest/node-npmtest-critical)
+# npmtest-critical
+
+#### test coverage for  [critical (v0.8.4)](https://github.com/addyosmani/critical#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-critical.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-critical) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-critical.svg)](https://travis-ci.org/npmtest/node-npmtest-critical)
+
 #### Extract & Inline Critical-path CSS from HTML
 
 [![NPM](https://nodei.co/npm/critical.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/critical)
